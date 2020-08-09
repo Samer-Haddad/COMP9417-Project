@@ -4,7 +4,7 @@
 **Link to competition:**
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/overview
 
-**Pre-trained models, scrript and notebooks, datasets, and supporting files are available in a zip archive on google drive:**
+**Link to all files:**
 https://drive.google.com/drive/folders/1CAMD8mVNjHKWsLxO5LIpswukDK_Vxtvy?usp=sharing
 
 **This repository contains:**
@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1CAMD8mVNjHKWsLxO5LIpswukDK_Vxtvy?usp=sha
 * /datasets/datasets.zip/(X_train.csv, X_test.csv, y_train.csv, y_test.csv) - train-ready data split to train and validation sets.
 * /datasets/datasets.zip/(predictions.csv) - final predictions output using CatBoost model (formatted by the competition's requirements).
 
-**In addition to the above files, COMP9417-Project-Files.zip on google drive contains pre-trained models:**
+**In addition, COMP9417-Project-Files.zip on google drive contains pre-trained models:**
 * CatBoostClassifier
 * XGBClassifier
 * DecisionTreeClassifier
