@@ -246,10 +246,10 @@ for clf in classifiers:
 #print('Accuracy of SVM: %s'%(acc)) 
 
 clf_svm = SVC()
-clf_svm = joblib.load('SVC.joblib')
+clf_svm = joblib.load('SVM.joblib')
 y_pred_svm = clf_svm.predict(X_test)
 y_pred_proba_svm = clf_svm.predict_proba(X_test)
-print('Accuracy of SVC: %s'%(acc_ndcg(y_test, y_pred_proba_svm)))
+print('Accuracy of SVM: %s'%(acc_ndcg(y_test, y_pred_proba_svm)))
 
 
 # Predicting
