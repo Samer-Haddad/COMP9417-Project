@@ -1,10 +1,10 @@
 # COMP9417-Project
-**Airbnb New User Bookings (Kaggle Competition)
+**Airbnb New User Bookings (Kaggle Competition)**
 
-**Link to competition:
+**Link to competition:**
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/overview
 
-**Pre-trained models, scrript and notebooks, datasets, and supporting files are available in a zip archive on google drive:
+**Pre-trained models, scrript and notebooks, datasets, and supporting files are available in a zip archive on google drive:**
 https://drive.google.com/drive/folders/1CAMD8mVNjHKWsLxO5LIpswukDK_Vxtvy?usp=sharing
 
 **This repository contains:**
