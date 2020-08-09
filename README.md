@@ -25,5 +25,5 @@ https://drive.google.com/drive/folders/1CAMD8mVNjHKWsLxO5LIpswukDK_Vxtvy?usp=sha
 * RandomForestClassifier
 * SVM
 
-**Note Regarding data exploration in predict_extended.ipynb:**<br/>
+**Note regarding predict_extended.ipynb:**<br/>
 GitHub does not display the tables side by side. Download and run in your IDE to view side by side tables in predict_extended.ipynb.
