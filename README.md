@@ -29,9 +29,9 @@
   GitHub does not display the tables side by side. Download and run in your IDE to view side by side tables in predict_extended.ipynb.
 
 **Future suggestions for this problem that I wanted to pursue but didn't have enough time:**
-  * Try to drop days coloumns and keep onyly day of week.
+  * Drop days coloumns and check the effect on accuracy.
   * Calculate correlations.
   * Group ages into buckets to make age categorical.
-  * I've extracted seasons from timeframes but dropped them before training due to high correlation with months. They would serve for visualisation purposes.
-  * Try different dimensionality reduction techniques.
+  * Extracted season features were dropped before training due to high correlation with month features. They would serve nicely for visualisation purposes.
+  * Try different better dimensionality reduction techniques.
   * Treat -unknown- in gender coloumn as missing value.
